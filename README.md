@@ -49,17 +49,13 @@ lexicographic-hotel-lco/
 │       ├── static_lco_model.py      # Pyomo-based static 2-tier model
 │       └── dynamic_lco_model.py     # (optional) CMDP / RL extensions
 ├── papers/
-│   ├── LCO_Colab_Procedures.tex
-│   ├── LCO_Colab_Procedures.pdf
+│   ├── Lexicographic_Constraint_Optimization_in_Hotel_Management_v1_6.pdf
+│   └── LCO_Colab_Procedures.pdf     # Standalone "how to run in Colab" paper
 │   └── Static_LCO_Correctness_Certification.pdf
 │
 ├── notebooks/
 │   ├── LCO_Colab_Procedures.ipynb   # Full step-by-step Colab workflow
 │   └── LCO_Static_2Tier_Demo.ipynb  # Minimal 10×5 synthetic instance
-│
-├── pdf/
-│   ├── Lexicographic_Constraint_Optimization_in_Hotel_Management_v1_6.pdf
-│   └── LCO_Colab_Procedures.pdf     # Standalone "how to run in Colab" paper
 │
 └── data/
     └── synthetic_booking_scenarios.csv  # Optional synthetic datasets
