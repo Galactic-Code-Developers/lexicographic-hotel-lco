@@ -6,6 +6,29 @@ It accompanies the LCO research papers authored by **Antonios Valamontes, Kapodi
 
 All notebooks are runnable directly in **Google Colab** and require no local installation.
 
+<p align="center">
+  <!-- Python version -->
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python 3.10+">
+  </a>
+
+  <!-- License -->
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License">
+  </a>
+
+  <!-- Pyomo -->
+  <a href="http://www.pyomo.org/">
+    <img src="https://img.shields.io/badge/Powered%20by-Pyomo-ff69b4.svg" alt="Pyomo">
+  </a>
+
+  <!-- Google Colab (repo-level) -->
+  <a href="https://colab.research.google.com/github/USERNAME/LCO-Notebooks">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
+  </a>
+</p>
+
+
 ---
 
 # 🔗 Quick Launch — Open in Google Colab
