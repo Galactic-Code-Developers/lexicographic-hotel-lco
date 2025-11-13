@@ -50,7 +50,7 @@ lexicographic-hotel-lco/
 │       └── dynamic_lco_model.py     # (optional) CMDP / RL extensions
 ├── papers/
 │   ├── Lexicographic_Constraint_Optimization_in_Hotel_Management_v1_6.pdf
-│   └── LCO_Colab_Procedures.pdf     # Standalone "how to run in Colab" paper
+│   ├── LCO_Colab_Procedures.pdf     # Standalone "how to run in Colab" paper
 │   └── Static_LCO_Correctness_Certification.pdf
 │
 ├── notebooks/
@@ -58,5 +58,6 @@ lexicographic-hotel-lco/
 │   └── LCO_Static_2Tier_Demo.ipynb  # Minimal 10×5 synthetic instance
 │
 └── data/
-    └── synthetic_booking_scenarios.csv  # Optional synthetic datasets
-
+    ├── synthetic_booking_scenarios_50csv   # Optional synthetic datasets
+    ├── multi_hotel_chain_bookings.csv      # 
+    └── synthetic_booking_scenarios_500.csv # 
