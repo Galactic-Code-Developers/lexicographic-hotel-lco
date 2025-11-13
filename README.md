@@ -1,9 +1,12 @@
 # Lexicographic Constraint Optimization in Hotel Management  
 _A Static and Dynamic Tiered Optimization Framework with Colab Procedures_
 
-[![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
-[![Pyomo](https://img.shields.io/badge/optimize-Pyomo-orange.svg)](http://www.pyomo.org/)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Docs: CC BY 4.0](https://img.shields.io/badge/Docs-CC--BY%204.0-orange.svg)
+![Python](https://img.shields.io/badge/Python-3.10+-yellow.svg)
+![Pyomo](https://img.shields.io/badge/Modeling-Pyomo-green)
+![HiGHS](https://img.shields.io/badge/Solver-HiGHS-purple)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 [![Colab](https://img.shields.io/badge/run%20in-Colab-yellow.svg)](<COLAB_NOTEBOOK_URL>)
 
 This repository contains the reference implementation and reproducible
