@@ -1,1 +1,29 @@
 
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lco-hotel"
+version = "0.1.0"
+description = "Lexicographic Constraint Optimization (LCO) models and Colab procedures for hotel management simulations."
+authors = [
+  { name = "Antonios Valamontes", email = "avalamontes@Kapodistrian.edu.gr" }
+]
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.9"
+dependencies = [
+  "numpy>=1.22",
+  "pandas>=1.5",
+  "pyomo>=6.6",
+  "highspy>=1.5",
+  "matplotlib>=3.5"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/<YOUR_GITHUB_USERNAME>/lexicographic-hotel-lco"
+"Source"   = "https://github.com/<YOUR_GITHUB_USERNAME>/lexicographic-hotel-lco"
+
+[tool.setuptools.packages.find]
+where = ["src"]
