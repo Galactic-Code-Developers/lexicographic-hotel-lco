@@ -1,0 +1,515 @@
+hotel_id,hotel_name,city,brand_tier,booking_id,start_day,length_of_stay,price_per_night,show_probability,segment,notes
+H1,Downtown Plaza,Tampa,UPPER_MID,1,9,3,150,0.902,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,2,23,1,160,0.902,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,3,30,1,120,0.795,DIS,DIS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,4,11,3,90,0.764,DIS,DIS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,5,28,1,130,0.889,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,6,20,1,150,0.818,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,7,17,1,110,0.788,DIS,DIS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,8,19,3,170,0.871,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,9,28,2,140,0.828,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,10,13,2,150,0.886,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,11,2,2,130,0.794,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,12,26,1,140,0.905,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,13,29,2,160,0.866,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,14,16,5,180,0.844,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,15,6,6,120,0.742,DIS,DIS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,16,19,3,80,0.847,DIS,DIS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,17,4,4,130,0.831,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,18,13,4,110,0.842,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,19,17,2,90,0.811,DIS,DIS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,20,16,5,140,0.85,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,21,15,5,110,0.808,GRP,GRP synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,22,15,6,170,0.919,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,23,25,3,140,0.887,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,24,15,2,210,0.814,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,25,10,1,220,0.769,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,26,28,1,90,0.858,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,27,27,1,200,0.825,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,28,7,3,120,0.789,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,29,18,1,80,0.751,GRP,GRP synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,30,12,2,150,0.741,GRP,GRP synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,31,29,2,170,0.878,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,32,25,3,120,0.735,DIS,DIS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,33,16,1,100,0.892,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,34,2,1,150,0.788,GRP,GRP synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,35,17,1,200,0.942,VIP,VIP synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,36,8,1,120,0.888,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,37,13,7,130,0.857,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,38,26,5,130,0.885,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,39,3,1,210,0.844,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,40,5,2,150,0.839,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,41,25,3,140,0.77,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,42,3,1,110,0.768,DIS,DIS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,43,20,1,160,0.813,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,44,26,2,150,0.903,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,45,17,1,160,0.91,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,46,1,1,220,0.871,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,47,8,4,110,0.835,DIS,DIS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,48,4,7,100,0.803,DIS,DIS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,49,10,2,140,0.942,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,50,14,2,150,0.906,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,51,18,1,100,0.81,GRP,GRP synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,52,28,1,120,0.785,DIS,DIS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,53,17,3,90,0.77,GRP,GRP synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,54,7,5,210,0.85,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,55,23,2,150,0.857,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,56,21,2,120,0.839,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,57,1,1,110,0.761,DIS,DIS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,58,7,2,210,0.779,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,59,1,1,100,0.867,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,60,24,3,80,0.736,DIS,DIS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,61,9,1,170,0.869,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,62,12,1,310,0.9,VIP,VIP synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,63,11,1,140,0.866,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,64,13,2,90,0.862,DIS,DIS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,65,23,2,290,0.935,VIP,VIP synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,66,10,2,140,0.8,GRP,GRP synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,67,5,4,110,0.82,GRP,GRP synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,68,12,1,100,0.782,GRP,GRP synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,69,28,1,100,0.899,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,70,22,1,130,0.915,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,71,23,1,150,0.845,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,72,26,5,100,0.874,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,73,28,2,170,0.85,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,74,29,2,160,0.87,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,75,9,1,90,0.887,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,76,9,1,170,0.847,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,77,20,3,170,0.881,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,78,30,1,220,0.857,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,79,10,1,130,0.874,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,80,26,5,100,0.835,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,81,10,2,190,0.961,VIP,VIP synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,82,20,2,260,0.949,VIP,VIP synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,83,17,1,190,0.826,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,84,24,2,150,0.839,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,85,7,2,130,0.872,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,86,5,3,170,0.914,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,87,2,1,200,0.886,VIP,VIP synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,88,17,3,180,0.873,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,89,12,1,200,0.86,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,90,9,2,100,0.829,GRP,GRP synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,91,21,4,170,0.897,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,92,12,2,90,0.79,DIS,DIS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,93,29,2,120,0.88,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,94,18,1,170,0.803,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,95,20,2,100,0.855,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,96,6,4,160,0.922,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,97,25,2,150,0.845,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,98,13,2,260,0.932,VIP,VIP synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,99,29,2,100,0.886,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,100,17,2,310,0.92,VIP,VIP synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,101,12,4,150,0.848,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,102,7,1,140,0.914,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,103,24,1,130,0.891,RET,RET synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,104,13,1,180,0.831,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,105,5,2,160,0.84,BUS,BUS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,106,27,2,70,0.775,DIS,DIS synthetic booking
+H1,Downtown Plaza,Tampa,UPPER_MID,107,4,1,110,0.857,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,108,16,7,200,0.787,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,109,8,4,210,0.843,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,110,28,3,140,0.837,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,111,28,3,140,0.881,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,112,9,4,110,0.869,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,113,22,2,190,0.916,VIP,VIP synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,114,21,5,200,0.866,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,115,28,2,130,0.898,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,116,28,1,310,0.925,VIP,VIP synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,117,7,1,170,0.771,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,118,29,2,120,0.868,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,119,24,2,170,0.89,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,120,1,1,160,0.87,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,121,18,2,100,0.866,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,122,24,1,230,0.887,VIP,VIP synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,123,23,5,120,0.829,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,124,3,1,130,0.847,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,125,30,1,90,0.869,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,126,29,2,190,0.949,VIP,VIP synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,127,14,1,130,0.805,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,128,27,2,140,0.821,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,129,27,3,140,0.806,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,130,14,2,160,0.875,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,131,24,3,140,0.845,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,132,5,1,160,0.887,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,133,10,2,220,0.844,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,134,19,1,200,0.833,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,135,15,2,90,0.869,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,136,23,4,70,0.838,DIS,DIS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,137,16,4,140,0.852,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,138,21,4,100,0.761,DIS,DIS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,139,17,4,250,0.99,VIP,VIP synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,140,23,1,140,0.873,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,141,9,1,160,0.823,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,142,14,2,150,0.82,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,143,24,1,160,0.854,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,144,17,4,180,0.788,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,145,22,1,160,0.862,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,146,23,2,80,0.789,DIS,DIS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,147,11,1,220,0.834,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,148,26,1,90,0.855,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,149,13,1,170,0.883,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,150,21,1,170,0.867,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,151,11,1,190,0.857,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,152,6,2,100,0.83,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,153,2,4,170,0.87,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,154,15,2,200,0.765,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,155,17,1,190,0.837,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,156,4,5,140,0.776,GRP,GRP synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,157,21,1,190,0.939,VIP,VIP synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,158,15,1,150,0.897,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,159,1,2,170,0.791,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,160,3,1,160,0.858,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,161,24,1,110,0.901,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,162,12,4,160,0.907,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,163,6,1,120,0.822,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,164,15,1,150,0.867,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,165,9,2,220,0.845,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,166,14,1,170,0.843,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,167,18,1,130,0.879,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,168,24,1,100,0.904,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,169,23,3,110,0.927,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,170,22,5,100,0.878,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,171,25,4,150,0.82,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,172,30,1,130,0.817,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,173,25,1,150,0.876,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,174,12,2,130,0.858,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,175,13,2,120,0.83,DIS,DIS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,176,4,2,80,0.837,GRP,GRP synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,177,5,3,210,0.901,VIP,VIP synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,178,9,3,210,0.912,VIP,VIP synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,179,14,1,160,0.874,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,180,5,1,140,0.83,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,181,26,1,120,0.866,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,182,21,1,170,0.899,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,183,5,1,170,0.779,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,184,24,5,170,0.874,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,185,23,1,100,0.83,GRP,GRP synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,186,22,1,190,0.818,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,187,4,1,170,0.835,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,188,3,2,220,0.972,VIP,VIP synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,189,7,1,90,0.823,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,190,16,1,170,0.907,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,191,11,1,120,0.901,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,192,27,1,90,0.848,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,193,9,4,110,0.825,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,194,22,6,150,0.88,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,195,2,2,210,0.812,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,196,10,1,170,0.927,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,197,30,1,180,0.786,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,198,29,2,200,0.88,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,199,16,1,230,0.884,VIP,VIP synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,200,20,3,100,0.833,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,201,30,1,210,0.82,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,202,14,2,100,0.89,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,203,6,1,170,0.864,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,204,5,1,190,0.899,VIP,VIP synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,205,27,1,110,0.861,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,206,21,1,100,0.81,DIS,DIS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,207,6,2,270,0.898,VIP,VIP synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,208,29,2,170,0.819,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,209,6,4,130,0.883,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,210,8,3,90,0.812,GRP,GRP synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,211,25,2,160,0.873,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,212,23,2,140,0.862,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,213,27,4,110,0.925,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,214,7,1,90,0.786,DIS,DIS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,215,20,1,180,0.87,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,216,2,5,200,0.868,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,217,6,1,140,0.842,GRP,GRP synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,218,17,3,170,0.84,RET,RET synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,219,5,1,120,0.808,BUS,BUS synthetic booking
+H2,Airport Suites,Orlando,UPPER_MID,220,26,5,170,0.869,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,221,21,3,140,0.885,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,222,9,6,100,0.881,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,223,19,6,190,0.889,BUS,BUS synthetic booking
+H3,Seaside Resort,Miami,RESORT,224,11,2,130,0.943,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,225,5,1,250,0.92,VIP,VIP synthetic booking
+H3,Seaside Resort,Miami,RESORT,226,24,1,140,0.846,BUS,BUS synthetic booking
+H3,Seaside Resort,Miami,RESORT,227,11,2,220,0.781,BUS,BUS synthetic booking
+H3,Seaside Resort,Miami,RESORT,228,2,2,90,0.914,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,229,13,7,90,0.899,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,230,3,6,200,0.86,BUS,BUS synthetic booking
+H3,Seaside Resort,Miami,RESORT,231,10,2,120,0.869,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,232,29,1,160,0.884,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,233,24,1,90,0.78,GRP,GRP synthetic booking
+H3,Seaside Resort,Miami,RESORT,234,8,2,210,0.95,VIP,VIP synthetic booking
+H3,Seaside Resort,Miami,RESORT,235,14,2,170,0.831,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,236,22,4,170,0.878,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,237,15,1,150,0.86,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,238,1,3,100,0.874,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,239,4,2,160,0.92,BUS,BUS synthetic booking
+H3,Seaside Resort,Miami,RESORT,240,23,6,80,0.832,GRP,GRP synthetic booking
+H3,Seaside Resort,Miami,RESORT,241,1,3,140,0.864,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,242,25,1,100,0.89,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,243,20,1,150,0.796,GRP,GRP synthetic booking
+H3,Seaside Resort,Miami,RESORT,244,23,1,100,0.809,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,245,16,1,170,0.882,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,246,22,4,260,0.9,VIP,VIP synthetic booking
+H3,Seaside Resort,Miami,RESORT,247,30,1,280,0.931,VIP,VIP synthetic booking
+H3,Seaside Resort,Miami,RESORT,248,20,7,200,0.909,VIP,VIP synthetic booking
+H3,Seaside Resort,Miami,RESORT,249,5,2,110,0.891,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,250,5,4,190,0.951,VIP,VIP synthetic booking
+H3,Seaside Resort,Miami,RESORT,251,10,5,160,0.869,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,252,15,3,90,0.788,DIS,DIS synthetic booking
+H3,Seaside Resort,Miami,RESORT,253,22,1,260,0.946,VIP,VIP synthetic booking
+H3,Seaside Resort,Miami,RESORT,254,27,4,90,0.853,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,255,11,3,160,0.822,BUS,BUS synthetic booking
+H3,Seaside Resort,Miami,RESORT,256,23,1,140,0.792,BUS,BUS synthetic booking
+H3,Seaside Resort,Miami,RESORT,257,26,1,140,0.895,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,258,18,5,80,0.777,DIS,DIS synthetic booking
+H3,Seaside Resort,Miami,RESORT,259,19,3,280,0.951,VIP,VIP synthetic booking
+H3,Seaside Resort,Miami,RESORT,260,24,4,100,0.901,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,261,23,4,150,0.888,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,262,14,7,130,0.889,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,263,4,1,130,0.878,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,264,28,3,140,0.812,BUS,BUS synthetic booking
+H3,Seaside Resort,Miami,RESORT,265,24,4,140,0.857,BUS,BUS synthetic booking
+H3,Seaside Resort,Miami,RESORT,266,3,5,70,0.815,DIS,DIS synthetic booking
+H3,Seaside Resort,Miami,RESORT,267,4,1,110,0.85,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,268,19,1,130,0.834,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,269,12,1,140,0.803,BUS,BUS synthetic booking
+H3,Seaside Resort,Miami,RESORT,270,16,2,100,0.912,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,271,7,2,160,0.89,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,272,20,3,150,0.864,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,273,16,1,120,0.899,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,274,6,4,170,0.832,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,275,17,1,90,0.883,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,276,8,1,150,0.905,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,277,18,1,160,0.866,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,278,19,2,190,0.814,BUS,BUS synthetic booking
+H3,Seaside Resort,Miami,RESORT,279,19,2,140,0.87,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,280,19,1,100,0.769,DIS,DIS synthetic booking
+H3,Seaside Resort,Miami,RESORT,281,17,2,170,0.872,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,282,22,1,150,0.834,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,283,2,2,100,0.834,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,284,7,1,70,0.767,DIS,DIS synthetic booking
+H3,Seaside Resort,Miami,RESORT,285,26,1,120,0.837,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,286,26,2,150,0.855,BUS,BUS synthetic booking
+H3,Seaside Resort,Miami,RESORT,287,13,1,140,0.89,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,288,20,1,80,0.779,DIS,DIS synthetic booking
+H3,Seaside Resort,Miami,RESORT,289,10,3,130,0.803,BUS,BUS synthetic booking
+H3,Seaside Resort,Miami,RESORT,290,7,2,150,0.786,BUS,BUS synthetic booking
+H3,Seaside Resort,Miami,RESORT,291,12,1,100,0.802,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,292,21,1,270,0.948,VIP,VIP synthetic booking
+H3,Seaside Resort,Miami,RESORT,293,23,3,130,0.895,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,294,27,4,120,0.887,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,295,29,1,280,0.889,VIP,VIP synthetic booking
+H3,Seaside Resort,Miami,RESORT,296,15,1,140,0.862,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,297,24,3,140,0.863,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,298,2,2,170,0.822,BUS,BUS synthetic booking
+H3,Seaside Resort,Miami,RESORT,299,29,2,90,0.849,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,300,1,5,80,0.824,DIS,DIS synthetic booking
+H3,Seaside Resort,Miami,RESORT,301,28,3,150,0.844,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,302,4,1,210,0.934,VIP,VIP synthetic booking
+H3,Seaside Resort,Miami,RESORT,303,27,3,150,0.92,RET,RET synthetic booking
+H3,Seaside Resort,Miami,RESORT,304,9,1,120,0.823,BUS,BUS synthetic booking
+H3,Seaside Resort,Miami,RESORT,305,17,2,140,0.798,BUS,BUS synthetic booking
+H3,Seaside Resort,Miami,RESORT,306,3,2,100,0.887,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,307,16,1,120,0.772,DIS,DIS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,308,20,2,100,0.789,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,309,28,3,130,0.938,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,310,14,7,180,0.842,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,311,24,1,200,0.862,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,312,6,2,220,0.891,VIP,VIP synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,313,16,1,200,0.762,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,314,18,2,80,0.811,DIS,DIS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,315,12,2,160,0.857,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,316,19,4,200,0.86,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,317,27,1,160,0.902,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,318,1,2,160,0.835,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,319,8,2,200,0.887,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,320,13,2,170,0.877,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,321,4,7,100,0.824,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,322,13,3,90,0.761,GRP,GRP synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,323,5,5,90,0.886,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,324,17,2,150,0.859,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,325,2,3,120,0.861,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,326,25,2,130,0.824,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,327,7,4,120,0.841,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,328,10,5,150,0.824,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,329,3,2,110,0.879,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,330,23,1,130,0.765,GRP,GRP synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,331,19,3,140,0.808,GRP,GRP synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,332,21,1,140,0.844,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,333,13,2,130,0.893,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,334,8,1,130,0.831,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,335,27,2,130,0.861,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,336,4,1,110,0.872,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,337,29,1,140,0.885,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,338,25,2,110,0.841,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,339,2,1,180,0.844,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,340,14,3,200,0.896,VIP,VIP synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,341,17,6,140,0.849,GRP,GRP synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,342,24,1,110,0.811,GRP,GRP synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,343,4,1,90,0.861,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,344,12,3,100,0.882,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,345,21,5,90,0.816,DIS,DIS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,346,20,1,100,0.843,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,347,30,1,150,0.814,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,348,24,1,80,0.772,DIS,DIS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,349,16,4,160,0.82,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,350,22,1,270,0.957,VIP,VIP synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,351,23,1,130,0.79,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,352,4,1,120,0.828,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,353,20,4,170,0.876,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,354,28,1,160,0.875,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,355,25,1,150,0.804,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,356,19,2,260,0.967,VIP,VIP synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,357,4,7,150,0.855,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,358,25,6,170,0.936,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,359,3,1,130,0.887,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,360,12,2,160,0.879,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,361,20,2,100,0.856,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,362,15,5,280,0.932,VIP,VIP synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,363,27,4,130,0.786,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,364,6,6,140,0.858,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,365,21,1,120,0.884,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,366,30,1,110,0.843,DIS,DIS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,367,2,3,160,0.816,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,368,27,3,230,0.933,VIP,VIP synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,369,20,1,130,0.896,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,370,27,2,220,0.86,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,371,25,2,140,0.827,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,372,18,1,210,0.866,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,373,29,2,130,0.893,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,374,13,2,170,0.817,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,375,30,1,90,0.876,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,376,6,5,200,0.906,VIP,VIP synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,377,13,6,170,0.84,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,378,3,5,140,0.83,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,379,15,1,120,0.844,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,380,26,1,150,0.854,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,381,28,2,120,0.873,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,382,21,1,190,0.828,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,383,11,1,120,0.828,GRP,GRP synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,384,10,4,90,0.884,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,385,29,1,140,0.803,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,386,30,1,150,0.835,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,387,3,2,140,0.85,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,388,25,1,100,0.848,GRP,GRP synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,389,2,6,190,0.817,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,390,25,2,110,0.914,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,391,10,5,130,0.855,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,392,17,1,130,0.814,GRP,GRP synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,393,5,4,130,0.777,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,394,28,3,140,0.878,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,395,22,1,70,0.795,DIS,DIS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,396,7,7,100,0.873,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,397,22,6,100,0.854,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,398,11,1,210,0.971,VIP,VIP synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,399,20,2,180,0.835,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,400,10,6,130,0.85,BUS,BUS synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,401,15,4,140,0.846,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,402,6,1,100,0.82,GRP,GRP synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,403,18,2,170,0.931,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,404,21,2,130,0.902,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,405,9,7,120,0.818,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,406,19,1,90,0.858,RET,RET synthetic booking
+H4,Convention Center Hotel,Atlanta,BUSINESS,407,7,1,130,0.85,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,408,18,2,150,0.881,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,409,3,2,130,0.868,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,410,8,1,120,0.888,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,411,13,3,210,0.829,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,412,25,1,160,0.876,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,413,12,2,200,0.859,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,414,26,4,100,0.877,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,415,3,7,200,0.904,VIP,VIP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,416,18,2,190,0.923,VIP,VIP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,417,28,3,140,0.901,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,418,19,6,100,0.867,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,419,25,1,120,0.849,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,420,8,1,160,0.797,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,421,14,1,160,0.799,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,422,2,1,130,0.929,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,423,2,6,180,0.954,VIP,VIP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,424,22,1,170,0.885,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,425,7,1,270,0.922,VIP,VIP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,426,12,1,140,0.897,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,427,15,2,100,0.899,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,428,19,3,120,0.817,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,429,14,6,170,0.877,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,430,2,6,200,0.871,VIP,VIP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,431,28,3,130,0.844,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,432,26,2,170,0.926,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,433,11,4,200,0.813,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,434,16,6,90,0.806,DIS,DIS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,435,29,2,120,0.77,DIS,DIS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,436,18,1,170,0.913,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,437,26,3,140,0.853,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,438,11,2,210,0.869,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,439,19,2,100,0.82,GRP,GRP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,440,9,1,170,0.862,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,441,14,2,90,0.861,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,442,21,5,90,0.804,GRP,GRP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,443,26,1,110,0.843,GRP,GRP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,444,21,2,120,0.767,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,445,29,2,160,0.826,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,446,1,7,140,0.825,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,447,14,4,170,0.789,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,448,11,2,300,0.967,VIP,VIP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,449,2,4,110,0.755,DIS,DIS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,450,20,1,230,0.906,VIP,VIP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,451,9,3,120,0.856,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,452,15,1,160,0.844,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,453,6,4,100,0.858,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,454,12,4,110,0.838,DIS,DIS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,455,14,3,150,0.889,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,456,16,2,130,0.836,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,457,4,3,300,0.911,VIP,VIP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,458,4,1,140,0.878,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,459,9,2,160,0.861,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,460,22,1,160,0.9,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,461,8,6,120,0.866,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,462,14,6,160,0.87,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,463,12,7,90,0.794,DIS,DIS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,464,17,6,170,0.812,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,465,7,2,130,0.816,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,466,14,1,120,0.767,GRP,GRP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,467,19,1,160,0.929,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,468,10,2,120,0.769,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,469,16,1,140,0.823,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,470,16,1,90,0.857,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,471,17,3,80,0.825,DIS,DIS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,472,16,4,140,0.854,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,473,10,4,100,0.764,DIS,DIS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,474,28,1,200,0.876,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,475,14,1,110,0.864,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,476,5,2,150,0.81,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,477,19,7,160,0.863,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,478,20,1,170,0.837,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,479,30,1,80,0.806,GRP,GRP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,480,27,3,210,0.814,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,481,14,3,140,0.847,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,482,20,5,230,0.98,VIP,VIP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,483,25,1,110,0.756,DIS,DIS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,484,26,1,160,0.894,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,485,26,1,140,0.805,GRP,GRP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,486,12,2,290,0.906,VIP,VIP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,487,16,1,160,0.857,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,488,14,6,160,0.873,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,489,6,1,230,0.953,VIP,VIP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,490,29,2,180,0.908,VIP,VIP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,491,2,6,110,0.861,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,492,3,4,90,0.795,GRP,GRP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,493,3,2,160,0.866,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,494,28,3,200,0.845,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,495,23,1,170,0.845,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,496,21,2,150,0.833,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,497,8,2,150,0.895,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,498,11,2,220,0.925,VIP,VIP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,499,12,7,210,0.83,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,500,9,2,150,0.907,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,501,2,3,100,0.914,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,502,27,4,180,0.848,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,503,12,4,140,0.871,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,504,10,5,90,0.849,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,505,27,2,120,0.914,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,506,26,2,170,0.881,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,507,1,2,120,0.804,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,508,15,2,200,0.802,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,509,12,4,160,0.82,BUS,BUS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,510,19,2,230,0.892,VIP,VIP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,511,19,2,90,0.813,DIS,DIS synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,512,6,7,200,0.925,VIP,VIP synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,513,27,2,110,0.836,RET,RET synthetic booking
+H5,Budget Inn Central,Tampa,ECONOMY,514,26,2,80,0.781,DIS,DIS synthetic booking
