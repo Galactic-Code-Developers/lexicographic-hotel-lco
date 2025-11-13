@@ -22,8 +22,8 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/<YOUR_GITHUB_USERNAME>/lexicographic-hotel-lco"
-"Source"   = "https://github.com/<YOUR_GITHUB_USERNAME>/lexicographic-hotel-lco"
+"Homepage" = "https://github.com/Galactic-Code-Developers/Lexicographic-Hotel-LCO"
+"Source"   = "https://github.com/Galactic-Code-Developers/Lexicographic-Hotel-LCO"
 
 [tool.setuptools.packages.find]
 where = ["src"]
