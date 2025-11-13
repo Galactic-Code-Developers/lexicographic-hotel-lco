@@ -48,6 +48,10 @@ lexicographic-hotel-lco/
 │       ├── __init__.py
 │       ├── static_lco_model.py      # Pyomo-based static 2-tier model
 │       └── dynamic_lco_model.py     # (optional) CMDP / RL extensions
+├── papers/
+│   ├── LCO_Colab_Procedures.tex
+│   ├── LCO_Colab_Procedures.pdf
+│   └── Static_LCO_Correctness_Certification.pdf
 │
 ├── notebooks/
 │   ├── LCO_Colab_Procedures.ipynb   # Full step-by-step Colab workflow
@@ -59,3 +63,4 @@ lexicographic-hotel-lco/
 │
 └── data/
     └── synthetic_booking_scenarios.csv  # Optional synthetic datasets
+
