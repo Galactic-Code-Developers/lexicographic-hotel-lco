@@ -47,7 +47,7 @@ lexicographic-hotel-lco/
 │   └── LCO_Static_2Tier_Demo.ipynb  # Minimal 10×5 synthetic instance
 │
 ├── pdf/
-│   ├── Lexicographic_Constraint_Optimization_in_Hotel_Management_v1_4_8.pdf
+│   ├── Lexicographic_Constraint_Optimization_in_Hotel_Management_v1_6.pdf
 │   └── LCO_Colab_Procedures.pdf     # Standalone "how to run in Colab" paper
 │
 └── data/
