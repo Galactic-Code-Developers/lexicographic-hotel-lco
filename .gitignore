@@ -1,1 +1,62 @@
+# ---------------------------
+# Python / Jupyter / Colab
+# ---------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+.env
+.venv
+venv/
+env/
+.idea/
+.vscode/
+*.swp
+
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ---------------------------
+# Build / packaging
+# ---------------------------
+build/
+dist/
+*.egg-info/
+*.egg
+
+# ---------------------------
+# OS-specific
+# ---------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+# Logs / temp
+# ---------------------------
+*.log
+*.tmp
+*.bak
+
+# ---------------------------
+# LaTeX build artifacts
+# ---------------------------
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# ---------------------------
+# Colab export / misc
+# ---------------------------
+*.pdf~
+*.old
 
