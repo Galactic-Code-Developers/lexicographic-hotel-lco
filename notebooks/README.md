@@ -116,8 +116,7 @@ No installation required.
 !pip install pyomo highspy
 !apt-get install -y coinor-cbc
 
-LCO-Notebooks/
-│
+
 ├── notebooks/
 │   ├── LCO_Static_2Tier_Demo.ipynb
 │   ├── LCO_Colab_Procedures.ipynb
