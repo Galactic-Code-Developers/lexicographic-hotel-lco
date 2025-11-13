@@ -9,6 +9,10 @@ _A Static and Dynamic Tiered Optimization Framework with Colab Procedures_
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 [![Colab](https://img.shields.io/badge/run%20in-Colab-yellow.svg)](<COLAB_NOTEBOOK_URL>)
 
+![Colab](https://colab.research.google.com/assets/colab-badge.svg)
+![GitHub Pages](https://img.shields.io/badge/Docs-GitHub%20Pages-lightgrey)
+
+
 This repository contains the reference implementation and reproducible
 simulation workflow for **Lexicographic Constraint Optimization (LCO)**
 applied to hotel management.  
