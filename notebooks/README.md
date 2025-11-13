@@ -12,9 +12,9 @@ All notebooks are runnable directly in **Google Colab** and require no local ins
 
 | Notebook | Colab Link |
 |---------|------------|
-| **LCO_Static_2Tier_Demo.ipynb** | (replace with repo link) |
-| **LCO_Colab_Procedures.ipynb** | (replace with repo link) |
-| **LCO_Colab_Simulations.ipynb** | (replace with repo link) |
+| **LCO_Static_2Tier_Demo.ipynb** | [Open in Colab](https://colab.research.google.com/)|
+| **LCO_Colab_Procedures.ipynb** | [Open in Colab](https://colab.research.google.com/)|
+| **LCO_Colab_Simulations.ipynb** | [Open in Colab](https://colab.research.google.com/)|
 
 ---
 
