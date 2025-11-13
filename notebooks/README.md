@@ -115,3 +115,21 @@ No installation required.
 ```python
 !pip install pyomo highspy
 !apt-get install -y coinor-cbc
+
+LCO-Notebooks/
+│
+├── notebooks/
+│   ├── LCO_Static_2Tier_Demo.ipynb
+│   ├── LCO_Colab_Procedures.ipynb
+│   ├── LCO_Colab_Simulations.ipynb
+│
+├── data/
+│   ├── synthetic_booking_scenarios.csv
+│   ├── LCO_50_bookings.csv
+│   ├── LCO_500_stochastic_bookings.csv
+│   ├── LCO_multi_hotel_chain.csv
+│
+├── requirements.txt
+├── LICENSE
+└── README.md
+
