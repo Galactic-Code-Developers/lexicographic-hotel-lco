@@ -12,8 +12,8 @@ applied to hotel management.
 The codebase supports:
 
 - **Static 2-tier LCO**:
-  - Tier \(\mathcal{L}_2\): revenue maximization
-  - Tier \(\mathcal{L}_3\): expected overbooking slack minimization
+  - Tier $\mathcal{L}_2$: revenue maximization
+  - Tier $\mathcal{L}_3$: expected overbooking slack minimization
 - A **lexicographic floor mechanism** enforcing strict precedence between tiers
 - A complete **Google Colab procedure** documented in a standalone TeX paper
 - A code structure that is compatible with future **CMDP / RL extensions**
