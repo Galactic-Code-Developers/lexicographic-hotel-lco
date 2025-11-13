@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or LCO procedures, please cite this repository."
+title: "Lexicographic Constraint Optimization (LCO) — Simulation & Colab Procedures"
+version: "1.0.0"
+authors:
+  - name: "Antonios Valamontes"
+    affiliation: "Kapodistrian Academy of Science"
+    orcid: "0009-0008-5616-7746"
+date-released: "2025-11-12"
+repository-code: "https://github.com/Galactic-Code-Developers/Lexicographic-Hotel-LCO"
+license: "MIT"
+keywords:
+  - optimization
+  - lexicographic optimization
+  - Pyomo
+  - reinforcement learning
+  - CMDP
+  - hotel management
+  - cloud operations research
