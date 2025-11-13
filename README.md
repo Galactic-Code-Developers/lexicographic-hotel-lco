@@ -1,47 +1,54 @@
-# Lexicographic Constraint Optimization (LCO) — Colab Simulations
+# Lexicographic Constraint Optimization in Hotel Management  
+_A Static and Dynamic Tiered Optimization Framework with Colab Procedures_
 
-This repository contains a reproducible Google Colab notebook implementing the static
-two-tier **Lexicographic Constraint Optimization (LCO)** demo:
+[![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
+[![Pyomo](https://img.shields.io/badge/optimize-Pyomo-orange.svg)](http://www.pyomo.org/)
+[![Colab](https://img.shields.io/badge/run%20in-Colab-yellow.svg)](<COLAB_NOTEBOOK_URL>)
 
-- Tier **L2**: maximize expected revenue
-- Tier **L3**: minimize expected overbooking slack under a fixed revenue floor
+This repository contains the reference implementation and reproducible
+simulation workflow for **Lexicographic Constraint Optimization (LCO)**
+applied to hotel management.  
+The codebase supports:
 
-The model mirrors the synthetic 10-rooms × 5-days instance used in the main
-LCO hotel-management paper.
+- **Static 2-tier LCO**:
+  - Tier \(\mathcal{L}_2\): revenue maximization
+  - Tier \(\mathcal{L}_3\): expected overbooking slack minimization
+- A **lexicographic floor mechanism** enforcing strict precedence between tiers
+- A complete **Google Colab procedure** documented in a standalone TeX paper
+- A code structure that is compatible with future **CMDP / RL extensions**
 
-## Contents
+The mathematical core matches the model in:
 
-- `LCO_Colab_Simulations.ipynb` — runnable Colab notebook implementing the full L2→L3 workflow.
+> Valamontes, A. (2025).  
+> *Lexicographic Constraint Optimization in Hotel Management: Dynamic Online Control, RL Adaptation, and Multi-Property Integration.*  
+> Kapodistrian Academy of Science.
 
-## How to Use in Google Colab
+---
 
-1. Upload the notebook to your GitHub repository.
-2. Open in Google Colab using one of the following methods:
-   - From GitHub directly in Colab (`Open in Colab`).
-   - Or download the file and upload it manually to Colab.
+## Repository Structure
 
-Once in Colab:
-
-1. Run the installation cell to install Pyomo and solvers:
-   ```python
-   !pip install pyomo highspy
-   !apt-get install -y coinor-cbc
-   ```
-2. Run all remaining cells in order.
-3. The notebook will print:
-   - The Tier L2 revenue optimum `Z2*`,
-   - The Tier L3 overbooking slack sum,
-   - A table of accepted bookings and room assignments,
-   - A compact KPI summary.
-
-## Reproducibility
-
-All data are synthetic and defined inside the notebook; no external files are required.
-Any Colab runtime with network access (for `pip` and `apt-get`) can reproduce the results.
-
-## Citation
-
-If you use this notebook in academic or technical work, please cite:
-
-> Antonios Valamontes, *Procedures for Executing Lexicographic Constraint Optimization (LCO) Simulations Using Google Colab*, Kapodistrian Academy of Science.
-
+```text
+lexicographic-hotel-lco/
+├── README.md                   # This file
+├── LICENSE                     # MIT license
+├── requirements.txt            # Dependencies for local runs
+├── pyproject.toml              # Optional packaging metadata
+├── .gitignore
+│
+├── src/
+│   └── lco_hotel/
+│       ├── __init__.py
+│       ├── static_lco_model.py      # Pyomo-based static 2-tier model
+│       └── dynamic_lco_model.py     # (optional) CMDP / RL extensions
+│
+├── notebooks/
+│   ├── LCO_Colab_Procedures.ipynb   # Full step-by-step Colab workflow
+│   └── LCO_Static_2Tier_Demo.ipynb  # Minimal 10×5 synthetic instance
+│
+├── tex/
+│   ├── Lexicographic_Constraint_Optimization_in_Hotel_Management_v1_4_8.tex
+│   └── LCO_Colab_Procedures.tex     # Standalone "how to run in Colab" paper
+│
+└── data/
+    └── synthetic_booking_scenarios.csv  # Optional synthetic datasets
